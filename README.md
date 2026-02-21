@@ -3,7 +3,7 @@ Workshop materials for [talk](https://www.youtube.com/watch?v=kAx_Gsx53Oo)
 
 # Slides
 
-[View the talk slides](https://haskelluz.github.io/m26-ghc-generics/slides.html)
+[View the talk slides](https://haskelluz.github.io/m26-ghc-generics)
 
 # Build & Run
 
